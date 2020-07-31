@@ -1,3 +1,5 @@
 # MVCNN_Caffe
 
-dataset https://drive.google.com/drive/folders/1FkArDnHdR2UHdO8Okk4ZmDR5ZcnoUxKG?usp=sharing 
+ModelNet40 pretrained model https://drive.google.com/file/d/1KJhkDLFfvzhICuSdxk-uqbAvo1QDqQgZ/view?usp=sharing
+12 views dataset https://drive.google.com/drive/folders/1FkArDnHdR2UHdO8Okk4ZmDR5ZcnoUxKG?usp=sharing 
+40 views dataset https://drive.google.com/drive/folders/1NZ64rUvqFWMmm-Z9rpxkFphvzYrvoOWw?usp=sharing

@@ -1,5 +1,7 @@
 # MVCNN_Caffe
 
+MVCNN於caffe中實現的流程  
+
 ModelNet40 pretrained model  
 https://drive.google.com/file/d/1KJhkDLFfvzhICuSdxk-uqbAvo1QDqQgZ/view?usp=sharing  
 

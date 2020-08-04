@@ -7,16 +7,13 @@
 12 views dataset  
 https://drive.google.com/drive/folders/1FkArDnHdR2UHdO8Okk4ZmDR5ZcnoUxKG?usp=sharing  
 
-3. 將驗證資料集下載至目錄裡  
-valid data  
+3. 將驗證資料集下載至目錄裡   
 https://drive.google.com/drive/folders/1NUsoqbb2O5V6COqvL9tjbszNXo25vcdw?usp=sharing
 
 4. pretrained model
 可以從Google Drive下載ModelNet40 12個視角的資料集來訓練自己的pretrained model    
-https://drive.google.com/file/d/0B4v2jR3WsindMUE3N2xiLVpyLW8/view
-
-這裡也提供我自行訓練的pretrained model  
-ModelNet40 pretrained model  
+https://drive.google.com/file/d/0B4v2jR3WsindMUE3N2xiLVpyLW8/view  
+或是使用我訓練ModelNet40的pretrained model  
 https://drive.google.com/file/d/1KJhkDLFfvzhICuSdxk-uqbAvo1QDqQgZ/view?usp=sharing  
 
 5. mvccn_12view.prototxt路徑與種類數目修改

@@ -3,13 +3,13 @@
 ## 資料準備
 1. 下載GitHub所有的文件，點選Download Zip
 
-2. 下載12views的昆蟲影像資料集，並且放置於上述下載的目錄裡：　
+2. 下載12views的昆蟲影像資料集：　
 https://drive.google.com/drive/folders/1FkArDnHdR2UHdO8Okk4ZmDR5ZcnoUxKG?usp=sharing  
 
-3. 將驗證資料集下載至目錄裡：     
+3. 下載驗證資料集：     
 https://drive.google.com/drive/folders/1NUsoqbb2O5V6COqvL9tjbszNXo25vcdw?usp=sharing
 
-4. pretrained model：   
+4. 下載pretrained model：   
 - 可以從Google Drive下載ModelNet40 12個視角的資料集來訓練自己的pretrained model    
 https://drive.google.com/file/d/0B4v2jR3WsindMUE3N2xiLVpyLW8/view  
 - 或是使用我訓練ModelNet40的pretrained model  
@@ -25,4 +25,4 @@ https://drive.google.com/file/d/1KJhkDLFfvzhICuSdxk-uqbAvo1QDqQgZ/view?usp=shari
 ```
 num_output: 5  
 ```
-6. 將Caffe整個資料夾複製到目錄裡
+6. 將Caffe資料夾複製到目錄裡

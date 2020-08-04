@@ -26,7 +26,7 @@ imh = 224
 imw = 224
 imc = 3
 
-image_dir = r"home/viplab/桌面/MVCNN_Caffe_12views-master/valid/valid_al" 
+image_dir = r"/home/viplab/桌面/MVCNN_Caffe_12views-master/valid/valid_al" 
 file_glob = os.path.join(image_dir,"*")
 file_list = []
 file_list.extend(glob.glob(file_glob))

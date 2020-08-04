@@ -15,7 +15,7 @@ caffe.set_mode_gpu()
 caffe.set_device(0)
 
 net_file='./mvccn_12view_deploy.prototxt'  
-caffe_model='./mvcnn_vipModel_10000.caffemodel'
+caffe_model='./mvcnn_iter_10000.caffemodel'
 #mean_file='./ilsvrc_2012_mean.npy' 
 
 net = caffe.Net(net_file,caffe_model,caffe.TEST)  

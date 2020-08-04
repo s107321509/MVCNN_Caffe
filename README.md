@@ -26,3 +26,9 @@ https://drive.google.com/file/d/1KJhkDLFfvzhICuSdxk-uqbAvo1QDqQgZ/view?usp=shari
 num_output: 5  
 ```
 6. 將Caffe資料夾複製到目錄裡
+
+## Training
+開啟終端機  
+```
+python trainMVCNN.py
+```

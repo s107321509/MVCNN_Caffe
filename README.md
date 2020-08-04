@@ -4,7 +4,7 @@
 1. 下載GitHub所有的文件，點選Download Zip
 
 2. 下載12views的昆蟲影像資料集：  
-https://drive.google.com/drive/folders/1FkArDnHdR2UHdO8Okk4ZmDR5ZcnoUxKG?usp=sharing  
+https://drive.google.com/drive/folders/1H45jjmf_fjaMX8EH3WnOovtt6-gCtP9v?usp=sharing 
 
 3. 下載驗證資料集：     
 https://drive.google.com/drive/folders/1NUsoqbb2O5V6COqvL9tjbszNXo25vcdw?usp=sharing

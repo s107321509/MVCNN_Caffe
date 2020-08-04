@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1YyEJzCIKCYKcHKdi8ZzDMIAFkPxfuURr/view?usp=shari
 'data_path': './vipModel_white_background'  
 ```
 
-- 修改最後一層全連接層的種類數目  
+- 修改最後一層的種類數目  
 ```
 num_output: 5  
 ```

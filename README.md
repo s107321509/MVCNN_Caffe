@@ -36,7 +36,7 @@ python trainMVCNN.py
 ## 驗證
 - 修改valid.py中caffe_model的檔名  
 ```
-caffe_model='./mvcnn_vipModel_10000.caffemodel'
+caffe_model='./mvcnn_iter_10000.caffemodel'
 ```
 
 - 修改驗證資料存放路徑  

@@ -28,23 +28,35 @@ num_output: 5
 6. 將Caffe資料夾複製到目錄裡
 
 ## 訓練
-開啟終端機至目錄   
+於目錄中開啟終端機，輸入指令     
 ```
 python trainMVCNN.py
 ```
 
 ## 驗證
-- 修改valid.py中caffe_model的檔名  
+修改valid.py中檔案位置的絕對路徑 
+
+- deploy  
 ```
-caffe_model='./mvcnn_iter_10000.caffemodel'
+net_file='/home/viplab/桌面/MVCNN_Caffe_12views-master/mvcnn_12view_deploy.prototxt'
 ```
 
-- 修改驗證資料存放路徑  
+- caffe model  
 ```
-image_dir = r"/home/viplab/MVCNN/MVCNN_12views/valid/valid_al" 
+caffe_model='/home/viplab/桌面/MVCNN_Caffe_12views-master/mvcnn_iter_10000.caffemodel'
 ```
 
-- 開啟終端機至目錄  
+- mean file  
+```
+mean_file = np.load('/home/viplab/桌面/MVCNN_Caffe_12views-master/ilsvrc_2012_mean.npy')
+```
+
+- 驗證資料  
+```
+image_dir = r"/home/viplab/桌面/MVCNN_Caffe_12views-master/valid/valid_al" 
+```
+
+- 於目錄中開啟終端機，輸入指令  
 ```
 python valid.py
 ```

@@ -55,7 +55,7 @@ mean_file = np.load('/home/viplab/桌面/MVCNN_Caffe_12views-master/ilsvrc_2012_
 ```
 image_dir = r"/home/viplab/桌面/MVCNN_Caffe_12views-master/valid/valid_al" 
 ```
-- list(分類標籤)  
+- list　(分類標籤)  
 ```
 imagenet_labels_filename = '/home/viplab/桌面/MVCNN_Caffe_12views-master/list.txt' 
 ```

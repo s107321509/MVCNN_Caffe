@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1NUsoqbb2O5V6COqvL9tjbszNXo25vcdw?usp=sha
 - 可以從Google Drive下載ModelNet40 12個視角的資料集來訓練自己的pretrained model    
 https://drive.google.com/file/d/0B4v2jR3WsindMUE3N2xiLVpyLW8/view  
 - 或是使用我訓練ModelNet40的pretrained model  
-https://drive.google.com/file/d/1KJhkDLFfvzhICuSdxk-uqbAvo1QDqQgZ/view?usp=sharing  
+https://drive.google.com/file/d/1YyEJzCIKCYKcHKdi8ZzDMIAFkPxfuURr/view?usp=sharing
 
 5. mvccn_12view.prototxt路徑與種類數目修改：  
 - 修改mvccn_12view.prototxt中的輸入層的資料路徑  

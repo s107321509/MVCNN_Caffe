@@ -17,7 +17,12 @@ https://drive.google.com/file/d/1KJhkDLFfvzhICuSdxk-uqbAvo1QDqQgZ/view?usp=shari
 
 5. mvccn_12view.prototxt路徑與種類數目修改：  
 - 修改mvccn_12view.prototxt中的輸入層的資料路徑  
+```
 'data_path': './vipModel_white_background'  
-- 修改最後一層全連接層的種類數目  
-num_output: 5  
+```
 
+- 修改最後一層全連接層的種類數目  
+```
+num_output: 5  
+```
+6. 將Caffe整個資料夾複製到目錄裡

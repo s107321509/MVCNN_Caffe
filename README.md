@@ -3,7 +3,7 @@
 ## 資料準備
 1. 下載GitHub所有的文件，點選Download Zip
 
-2. 下載12views的昆蟲影像資料集：　
+2. 下載12views的昆蟲影像資料集：  　
 https://drive.google.com/drive/folders/1FkArDnHdR2UHdO8Okk4ZmDR5ZcnoUxKG?usp=sharing  
 
 3. 下載驗證資料集：     
